@@ -28,7 +28,7 @@ try:
 except ImportError:
     requires.append("pillow")
 
-setup(name='pycoast',
+setup(name='SMHI-SAF-pycoast',
       version=version.__version__,
       description='Writing of coastlines, borders and rivers to images in Python',
       author='Esben S. Nielsen',
