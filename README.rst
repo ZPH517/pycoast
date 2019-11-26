@@ -1,5 +1,8 @@
 PyCoast
 =======
+地理信息shp文件的读取
+
+论文参考如下：
 
 .. image:: https://travis-ci.org/pytroll/pycoast.svg?branch=master
     :target: https://travis-ci.org/pytroll/pycoast
